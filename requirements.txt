@@ -1,0 +1,5 @@
+fastapi>=0.110.0
+uvicorn>=0.29.0
+networkx>=3.2.1
+streamlit>=1.28.0
+pyarrow==17.0.0
