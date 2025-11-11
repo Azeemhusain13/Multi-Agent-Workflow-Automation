@@ -13,3 +13,4 @@ A minimal, production-friendly scaffold for multi-step agent workflows (Research
 pip install -r requirements.txt
 python run.py --query "Explain RAG in simple terms"
 ```
+<img width="882" height="678" alt="Screenshot 2025-11-12 at 1 09 01 AM" src="https://github.com/user-attachments/assets/6c0330b3-cf74-4d0e-82ba-3914d5e362a0" />
